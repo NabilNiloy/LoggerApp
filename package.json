@@ -1,0 +1,32 @@
+{
+  "name": "loggerapp",
+  "version": "1.0.0",
+  "description": "A logger app for the madrasah",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NabilNiloy/LoggerApp.git"
+  },
+  "keywords": [
+    "express",
+    "loggerapp",
+    "mysql",
+    "crud"
+  ],
+  "author": "Nabil Niloy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NabilNiloy/LoggerApp/issues"
+  },
+  "homepage": "https://github.com/NabilNiloy/LoggerApp#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "express-static": "^1.2.6",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19"
+  }
+}
